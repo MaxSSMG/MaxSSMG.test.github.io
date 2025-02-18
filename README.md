@@ -1,1 +1,1 @@
-# MaxSSMG.test.github.io
+# MaxSSMG.github.io
